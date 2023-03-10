@@ -1,7 +1,7 @@
 # robust-jesse-ai
 Tricks &amp; tools to make Jesse trading bot scalable and robust
 
-This repo is dedicated to amazing [Jesse crypto trading bot](https://https://jesse.trade/). While Jesse is probably the best trading solution out of the box, it was not created with running at scale in mind but at some point every serious trader faces this challenge.
+This repo is dedicated to amazing [Jesse crypto trading bot](https://jesse.trade/). While Jesse is probably the best trading solution out of the box, it was not created with running at scale in mind but at some point every serious trader faces this challenge.
 
 Currently I am building a scalable trading framework with Jesse in its core, and along the way I encountered number of issues. This repo is a collection of tricks and tools I created along this exciting journey. 
 
