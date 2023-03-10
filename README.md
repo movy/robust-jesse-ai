@@ -13,7 +13,7 @@ My framework is in the __very__ active stage of development right now, so my tim
 
 ## Getting rid of Binance's `ERROR: 503 Service Unavailable` errors
 
-... and avoiding abuse on Binance APIs
+... and avoiding abuse on Binance APIs no matter how many routes you're running
 
 See /nginx_api_proxy for configs and explanations. 
 
@@ -28,7 +28,6 @@ Below is the list of future additions to this repo with a glimpse of what they l
 
 - [ ] Trading same routes with multiple strategies
 
-
 - [ ] Trading 100s of routes on a single machine
 
 <img width="720" alt="image" src="https://user-images.githubusercontent.com/4336560/224216552-f2398016-8358-4f4d-8daf-626561687187.png">
@@ -37,7 +36,8 @@ Below is the list of future additions to this repo with a glimpse of what they l
 
 <img width="1143" alt="image" src="https://user-images.githubusercontent.com/4336560/224215791-8a6d045a-de16-4d7c-a195-cdfe8083e11f.png">
 
-- [ ] Advanced notifications and logging
+- [ ] Advanced notifications
+- [ ] Cloud logging
 - [ ] Backup bots
 - [ ] Automatic strategies deployment with autoscaling
 
